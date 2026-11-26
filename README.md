@@ -76,3 +76,5 @@ screenshots/       board, detail view, filtered view
 ## License
 
 MIT
+
+Built for [make.fun's token launch radar bounty](https://make.fun/bounty/token-radar-01).
